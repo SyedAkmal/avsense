@@ -1247,6 +1247,7 @@ body.minimalist-header.header-below:not(.template-slider) #Header {
 #Top_bar .menu_wrapper {
 	float: left;
 	z-index: 201;
+    margin: 0 0 0 10%;
 }
 
 /* Secondary menu wrapper */
@@ -2210,6 +2211,11 @@ body.header-stack:not(.template-slider) #Header {
 }
 
 /* subheader-style */
+
+.av-title{
+    float:none !important;
+    text-align: left !important;
+}
 
 .subheader-title-right #Subheader .title {
 	float: right;

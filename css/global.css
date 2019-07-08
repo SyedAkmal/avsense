@@ -2349,7 +2349,7 @@ blockquote:after {
 	margin-bottom: 0!important
 }
 .image_frame:hover .image_wrapper img, .image_frame.hover .image_wrapper img {
-	top: -15px
+	top: 25px
 }
 .image_frame:hover .image_wrapper .ls-container img, .image_frame.no_link:hover .image_wrapper img {
 	top: 0

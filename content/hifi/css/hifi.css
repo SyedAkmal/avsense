@@ -3988,7 +3988,7 @@ h6 {
 	margin-left: 18%;
 }
 #Top_bar #logo, .header-fixed #Top_bar #logo, .header-plain #Top_bar #logo, .header-transparent #Top_bar #logo {
-	height: 60px;
+	height: 55px;
 	line-height: 60px;
 	padding: 30px 0;
 }
@@ -3996,7 +3996,7 @@ h6 {
 	height: 120px;
 }
 #Top_bar .menu>li>a {
-	padding: 30px 0;
+	padding: 20px 0;
 }
 .menu-highlight:not(.header-creative) #Top_bar .menu>li>a {
 	margin: 35px 0;
