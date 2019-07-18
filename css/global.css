@@ -19517,3 +19517,7 @@ a.action_button:hover{text-decoration:none}
 #Content.no-padding, .template-slider #Content, .with_aside #Content {
     padding-top: 0px !important;
 }
+
+a.explore-link h4{
+	font-weight:600;
+}

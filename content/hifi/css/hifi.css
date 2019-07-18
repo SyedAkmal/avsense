@@ -110,11 +110,11 @@
 /* Product Archives ------------------------------------------------------------------ */
 
 .woocommerce ul.products li.product {
-	width: 31.3%!important;
+	width: 45%!important;
 	margin: 0 1% 20px!important;
 	clear: none
 }
-.woocommerce ul.products li.product:nth-child(3n+1) {
+.woocommerce ul.products li.product:nth-child(2n+1) {
 	clear: both
 }
 
