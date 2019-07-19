@@ -64,5 +64,12 @@
 	cursor: -webkit-grab;
 }
 .thumbnails > div.active {
-	border: 3px solid#ff1f00;
+	/* border: 3px solid#fff; */
+	box-shadow: 0 0px 5px 0 rgba(0, 0, 0, 0.62), 0 5px 15px 10px rgba(0, 0, 0, 0.62);
+    transform: scale(1.1);
+}
+.thumbnails .gallery-item{
+	margin: 5px;
+	width: 122px !important;
+	height: 5vw !important;
 }

@@ -2115,6 +2115,9 @@ h3#ship-to-different-address label {
 	.mobile-header-mini #Top_bar .search_wrapper .icon_close {
 		top: 17px;
 	}
+	.hideinmob{
+		display: none;
+	}
 }
 body:not(.template-slider) #Header_wrapper {
 	background-image: url(../images/home_hifi_subheader.jpg)
@@ -2890,6 +2893,12 @@ body:not(.template-slider) #Header_wrapper {
 	}
 }
 @media only screen and (min-width: 1240px) {
+	.hideinpc{
+		display:none;
+	}
+	.hideinmob{
+		display: block;
+	}
 	#Top_bar.is-sticky {
 		position: fixed !important;
 		width: 100%;
